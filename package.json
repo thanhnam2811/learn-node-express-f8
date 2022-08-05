@@ -1,0 +1,32 @@
+{
+  "name": "learn-node-express-f8",
+  "version": "1.0.0",
+  "description": "Project for learn web backend with node and expressJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "debug": "node --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhnam2811/learn-node-express-f8.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "f8"
+  ],
+  "author": "nam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhnam2811/learn-node-express-f8/issues"
+  },
+  "homepage": "https://github.com/thanhnam2811/learn-node-express-f8#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
